@@ -5,6 +5,7 @@
 We propose an Active Learning enhanced Evolutionary Multi-objective Optimization (ALEMO) algorithm, integrated with hydrothermal simulations in fractured media, to enable efficient optimization of fractured geothermal systems using few model evaluations. We demonstrate its effectiveness by conducting extensive experimental tests of the integrated framework, including multi-objective benchmark functions, a fractured geothermal model and a large-scale enhanced geothermal system. Results demonstrate that the ALEMO approach achieves a remarkable reduction in required simulations, with a speed-up of 1-2 orders of magnitude (10-100 times faster), thereby enabling accelerated decision-making.
 
 Workflow of ALEMO:
+
 <a href="url"><img src="https://github.com/JellyChen7/ALEMO/blob/main/assets/Fig_1.emf" align="center" width="600" ></a>
 
 Framework of ALEMO:
