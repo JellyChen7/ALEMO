@@ -1,6 +1,7 @@
 # ALEMO: Machine Learning-Accelerated Discovery of Optimal Multi-Objective Fractured Geothermal System Design
 
 [Guodong Chen](https://scholar.google.com/citations?user=U2YFkAgAAAAJ&hl=zh-TW&oi=ao), [Jiu Jimmy Jiao*](https://scholar.google.com/citations?user=t7zybZUAAAAJ&hl=zh-TW&oi=ao), [Qiqi Liu](https://scholar.google.com.hk/citations?user=BDKEG8QAAAAJ&hl=en&oi=ao), [Zhongzheng Wang](https://scholar.google.com.hk/citations?user=WSH0zQsAAAAJ&hl=en&oi=ao), [Yaochu Jin](https://scholar.google.com.hk/citations?user=B5WAkz4AAAAJ&hl=en&oi=ao)
+
 We propose an Active Learning enhanced Evolutionary Multi-objective Optimization (ALEMO) algorithm, integrated with hydrothermal simulations in fractured media, to enable efficient optimization of fractured geothermal systems using few model evaluations. We demonstrate its effectiveness by conducting extensive experimental tests of the integrated framework, including multi-objective benchmark functions, a fractured geothermal model and a large-scale enhanced geothermal system. Results demonstrate that the ALEMO approach achieves a remarkable reduction in required simulations, with a speed-up of 1-2 orders of magnitude (10-100 times faster), thereby enabling accelerated decision-making.
 
 Workflow of ALEMO:
