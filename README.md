@@ -6,23 +6,23 @@ We propose an Active Learning enhanced Evolutionary Multi-objective Optimization
 
 Workflow of ALEMO:
 
-<a href=" ">< img src="https://github.com/JellyChen7/ALEMO/raw/main/Assets/Fig_1.png" align="center" width="600" >
+<a href=" ">< img src="https://github.com/JellyChen7/ALEMO/raw/main/Assets/Fig_1.png" align="center" width="600" ></a >
 
 Framework of ALEMO:
 
-<a href="url">< img src="https://github.com/JellyChen7/ALEMO/raw/main/Assets/Fig_2.png" align="center" width="600" >
+<a href="url">< img src="https://github.com/JellyChen7/ALEMO/raw/main/Assets/Fig_2.png" align="center" width="600" ></a >
 
 Multi-objective optimization results in benchmark problems:
 
-<a href="url">< img src="https://github.com/JellyChen7/ALEMO/raw/main/Assets/Fig3.jpg" align="center" width="600" >
+<a href="url">< img src="https://github.com/JellyChen7/ALEMO/raw/main/Assets/Fig3.jpg" align="center" width="600" ></a >
 
 Accelerated multi-objective fractured geothermal energy system design results:
 
-<a href="url">< img src="https://github.com/JellyChen7/ALEMO/raw/main/Assets/Fig4.jpg" align="center" width="600" >
+<a href="url">< img src="https://github.com/JellyChen7/ALEMO/raw/main/Assets/Fig4.jpg" align="center" width="600" ></a >
 
 Accelerated discovery of optimal field-scale multi-objective fractured geothermal energy system design:
 
-<a href="url">< img src="https://github.com/JellyChen7/ALEMO/raw/main/Assets/Fig5.jpg" align="center" width="600" >
+<a href="url">< img src="https://github.com/JellyChen7/ALEMO/raw/main/Assets/Fig5.jpg" align="center" width="600" ></a >
 
 This file provides the instruction of the software operation to reproduce the figures&results of our work “Machine Learning-Accelerated Discovery of Optimal Multi-Objective Fractured Geothermal System Design”.
 
