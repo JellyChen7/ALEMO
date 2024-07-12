@@ -4,28 +4,7 @@
 
 We propose an Active Learning enhanced Evolutionary Multi-objective Optimization (ALEMO) algorithm, integrated with hydrothermal simulations in fractured media, to enable efficient optimization of fractured geothermal systems using few model evaluations. We demonstrate its effectiveness by conducting extensive experimental tests of the integrated framework, including multi-objective benchmark functions, a fractured geothermal model and a large-scale enhanced geothermal system. Results demonstrate that the ALEMO approach achieves a remarkable reduction in required simulations, with a speed-up of 1-2 orders of magnitude (10-100 times faster), thereby enabling accelerated decision-making.
 
-Workflow of ALEMO:
-
-<a href=" ">< img src="https://github.com/JellyChen7/ALEMO/raw/main/Assets/Fig_1.png" align="center" width="600" ></a >
-
-Framework of ALEMO:
-
-<a href="url">< img src="https://github.com/JellyChen7/ALEMO/raw/main/Assets/Fig_2.png" align="center" width="600" ></a >
-
-Multi-objective optimization results in benchmark problems:
-
-<a href="url">< img src="https://github.com/JellyChen7/ALEMO/raw/main/Assets/Fig3.jpg" align="center" width="600" ></a >
-
-Accelerated multi-objective fractured geothermal energy system design results:
-
-<a href="url">< img src="https://github.com/JellyChen7/ALEMO/raw/main/Assets/Fig4.jpg" align="center" width="600" ></a >
-
-Accelerated discovery of optimal field-scale multi-objective fractured geothermal energy system design:
-
-<a href="url">< img src="https://github.com/JellyChen7/ALEMO/raw/main/Assets/Fig5.jpg" align="center" width="600" ></a >
-
 This file provides the instruction of the software operation to reproduce the figures&results of our work “Machine Learning-Accelerated Discovery of Optimal Multi-Objective Fractured Geothermal System Design”.
-
 ## Installation
 
 
@@ -39,11 +18,30 @@ This file provides the instruction of the software operation to reproduce the fi
 3. Simulation software.
    Software: COMSOL (COMSOL Multiphysics with MATLAB) and open-source software packages MATLAB Reservoir Simulation Toolbox (MRST) for reservoir modelling and simulation is publicly available at https://www.sintef.no/projectweb/mrst/.
 
+Workflow of ALEMO:
+
+![Workflow of ALEMO](https://github.com/JellyChen7/ALEMO/raw/main/Assets/Fig_1.png "Workflow of ALEMO")
+
+Framework of ALEMO:
+
+![Framework of ALEMO](https://github.com/JellyChen7/ALEMO/raw/main/Assets/Fig_2.png "Framework of ALEMO")
+
+Accelerated multi-objective fractured geothermal energy system design results:
+
+![results](https://github.com/JellyChen7/ALEMO/raw/main/Assets/Fig4.jpg "results")
+
+Accelerated discovery of optimal field-scale multi-objective fractured geothermal energy system design:
+
+![system design](https://github.com/JellyChen7/ALEMO/raw/main/Assets/Fig5.jpg "system design")
+
+
+
+
 ## Citation
 If you find our work and/or our code useful, please cite us via:
 
 ```bibtex
-@inproceedings{Chen et al., 2024,
+@{Chen et al., 2024,
   title={Machine Learning-Accelerated Discovery of Optimal Multi-Objective Fractured Geothermal System Design},
   author={Guodong Chen and Jiu Jimmy Jiao and Qiqi Liu and Zhongzheng Wang and Yaochu Jin},
   year={2024}
