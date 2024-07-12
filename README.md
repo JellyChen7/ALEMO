@@ -6,33 +6,22 @@ We propose an Active Learning enhanced Evolutionary Multi-objective Optimization
 
 Workflow of ALEMO:
 
-<a href="url"><img src="https://github.com/JellyChen7/ALEMO/blob/main/assets/Fig_1.png" align="center" width="600" ></a>
-
-<a href=" ">< img src="https://github.com/JellyChen7/ALEMO/raw/main/Assets/Fig_1.png" align="center" width="600" >
-
+< img src="https://github.com/JellyChen7/ALEMO/raw/main/Assets/Fig_1.png" align="center" width="600" >
 Framework of ALEMO:
 
-<a href="url"><img src="https://github.com/JellyChen7/ALEMO/blob/main/assets/Fig_2.png" align="center" width="600" ></a>
-
-<a href=" ">< img src="https://github.com/JellyChen7/ALEMO/raw/main/Assets/Fig_2.png" align="center" width="600" >
+< img src="https://github.com/JellyChen7/ALEMO/raw/main/Assets/Fig_2.png" align="center" width="600" >
 
 Multi-objective optimization results in benchmark problems:
 
-<a href="url"><img src="https://github.com/JellyChen7/ALEMO/blob/main/assets/Fig3.jpg" align="center" width="600" ></a>
-
-<a href=" ">< img src="https://github.com/JellyChen7/ALEMO/raw/main/Assets/Fig3.jpg" align="center" width="600" >
+< img src="https://github.com/JellyChen7/ALEMO/raw/main/Assets/Fig3.jpg" align="center" width="600" >
 
 Accelerated multi-objective fractured geothermal energy system design results:
 
-<a href="url"><img src="https://github.com/JellyChen7/ALEMO/blob/main/assets/Fig4.jpg" align="center" width="600" ></a>
-
-<a href=" ">< img src="https://github.com/JellyChen7/ALEMO/raw/main/Assets/Fig4.jpg" align="center" width="600" >
+< img src="https://github.com/JellyChen7/ALEMO/raw/main/Assets/Fig4.jpg" align="center" width="600" >
 
 Accelerated discovery of optimal field-scale multi-objective fractured geothermal energy system design:
 
-<a href="url"><img src="https://github.com/JellyChen7/ALEMO/blob/main/assets/Fig5.jpg" align="center" width="600" ></a>
-
-<a href=" ">< img src="https://github.com/JellyChen7/ALEMO/raw/main/Assets/Fig5.jpg" align="center" width="600" >
+< img src="https://github.com/JellyChen7/ALEMO/raw/main/Assets/Fig5.jpg" align="center" width="600" >
 
 This file provides the instruction of the software operation to reproduce the figures&results of our work “Machine Learning-Accelerated Discovery of Optimal Multi-Objective Fractured Geothermal System Design”.
 
@@ -40,14 +29,14 @@ This file provides the instruction of the software operation to reproduce the fi
 
 
 1. Operation software of evolutionary computation.
-Software: MATLAB R2021a
-The source code has been tested on MATLAB R2021a and it could work normally. Note that, the other MATLAB versions may have unexpected problems, probably due to different specifications or versions of system functions. 
+   Software: MATLAB R2021a
+   The source code has been tested on MATLAB R2021a and it could work normally. Note that, the other MATLAB versions may have unexpected problems, probably due to different specifications or versions of system functions.
 
 2. Evolutionary multi-objective optimization platform.
-The open-source evolutionary multi-objective optimization platform PlatEMO is publicly available at https://github.com/BIMK/PlatEMO. Experiments on multi-objective benchmark functions are conducted on the platform. 
+   The open-source evolutionary multi-objective optimization platform PlatEMO is publicly available at https://github.com/BIMK/PlatEMO. Experiments on multi-objective benchmark functions are conducted on the platform.
 
 3. Simulation software.
-Software: COMSOL (COMSOL Multiphysics with MATLAB) and open-source software packages MATLAB Reservoir Simulation Toolbox (MRST) for reservoir modelling and simulation is publicly available at https://www.sintef.no/projectweb/mrst/.
+   Software: COMSOL (COMSOL Multiphysics with MATLAB) and open-source software packages MATLAB Reservoir Simulation Toolbox (MRST) for reservoir modelling and simulation is publicly available at https://www.sintef.no/projectweb/mrst/.
 
 ## Citation
 If you find our work and/or our code useful, please cite us via:
