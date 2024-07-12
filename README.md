@@ -24,6 +24,8 @@ Accelerated discovery of optimal field-scale multi-objective fractured geotherma
 
 <a href="url"><img src="https://github.com/JellyChen7/ALEMO/blob/main/assets/Fig5.jpg" align="center" width="600" ></a>
 
+This file provides the instruction of the software operation to reproduce the figures&results of our work “Machine Learning-Accelerated Discovery of Optimal Multi-Objective Fractured Geothermal System Design”.
+
 ## Installation
 
 
