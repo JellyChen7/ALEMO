@@ -41,7 +41,7 @@ Accelerated discovery of optimal field-scale multi-objective fractured geotherma
 If you find our work and/or our code useful, please cite us via:
 
 ```bibtex
-@{Chen et al., 2024,
+@article{Chen2024,
   title={Machine Learning-Accelerated Discovery of Optimal Multi-Objective Fractured Geothermal System Design},
   author={Guodong Chen and Jiu Jimmy Jiao and Qiqi Liu and Zhongzheng Wang and Yaochu Jin},
   year={2024}
