@@ -1,4 +1,4 @@
-# ALEMO: Machine Learning-Accelerated Discovery of Optimal Multi-Objective Fractured Geothermal System Design
+# ALEMO: Machine Learning-Accelerated Multi-Objective Design of Fractured Geothermal Systems
 
 [Guodong Chen](https://scholar.google.com/citations?user=U2YFkAgAAAAJ&hl=zh-TW&oi=ao), [Jiu Jimmy Jiao*](https://scholar.google.com/citations?user=t7zybZUAAAAJ&hl=zh-TW&oi=ao), [Qiqi Liu](https://scholar.google.com.hk/citations?user=BDKEG8QAAAAJ&hl=en&oi=ao), [Zhongzheng Wang](https://scholar.google.com.hk/citations?user=WSH0zQsAAAAJ&hl=en&oi=ao), [Yaochu Jin](https://scholar.google.com.hk/citations?user=B5WAkz4AAAAJ&hl=en&oi=ao)
 
