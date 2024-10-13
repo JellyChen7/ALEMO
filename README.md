@@ -42,7 +42,7 @@ If you find our work and/or our code useful, please cite us via:
 
 ```bibtex
 @article{Chen2024,
-  title={Machine Learning-Accelerated Discovery of Optimal Multi-Objective Fractured Geothermal System Design},
+  title={Machine Learning-Accelerated Multi-Objective Design of Fractured Geothermal Systems},
   author={Guodong Chen and Jiu Jimmy Jiao and Qiqi Liu and Zhongzheng Wang and Yaochu Jin},
   year={2024}
 }
