@@ -45,5 +45,9 @@ If you find our work and/or our code useful, please cite us via:
   title={Machine Learning-Accelerated Multi-Objective Design of Fractured Geothermal Systems},
   author={Guodong Chen and Jiu Jimmy Jiao and Qiqi Liu and Zhongzheng Wang and Yaochu Jin},
   year={2024}
+  journal={Nexus}
+  page={100044}
+  volume={1}
+  issue={4}
 }
 ```
